@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zhaoting LI--Enjoy the Every Moment of Creating and Exploring"
+title: "Zhaoting--Enjoying the Every Moment of Creating and Exploring"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
