@@ -11,30 +11,29 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Automation, Harbin Insititute of Technology, 2016 - 2020(expected)
+
 
 Work experience
 ======
 * Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * University of California, Berkeley
+  * Duties included: Motion planning for autonomous vehicles
+  * Supervisor: Dr.Zhan WEI, Professor Tomizuka
 
 * Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * Harbin Insititute of Technology
+  * Duties included: Path planning for a robot arm with a laser scanner
+  * Supervisor: Lecturer Zhan LI, Professor Huijun GAO
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Robot operating system
+* C++/C
+  * Opencv for visualization
+  * Matplotlib
+* Basic Python coding ability
+
 
 Publications
 ======
@@ -48,7 +47,7 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+Volunteering
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
