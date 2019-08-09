@@ -1,17 +1,18 @@
 ---
-title: "Teaching experience 1"
+title: "Research experience 1"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+venue: "HIT"
 date: 2014-01-01
-location: "City, Country"
+location: "Harbin,China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Path planning for robot arm with a laser scanner
 
 Heading 1
 ======
+
 
 Heading 2
 ======
