@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Automation, Harbin Insititute of Technology, 2016 - 2020(expected)
 
-<img src='/images/500x300.png'>
+<div align=center><img src='/images/500x300.png'>
 
 Work experience
 ======
@@ -27,7 +27,7 @@ Work experience
   * Duties included: Path planning for a robot arm with a laser scanner
   * Supervisor: Lecturer Zhan LI, Professor Huijun GAO
   
- <iframe height=498 width=510 src="https://www.youtube.com/watch?v=ZuxucB-W1rk">
+ <iframe height=498 width=510 src="https://www.youtube.com/watch?v=ZuxucB-W1rk"></iframe>
   
 Skills
 ======
