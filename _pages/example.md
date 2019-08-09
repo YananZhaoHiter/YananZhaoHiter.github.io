@@ -27,6 +27,7 @@ Work experience
   * Duties included: Path planning for a robot arm with a laser scanner
   * Supervisor: Lecturer Zhan LI, Professor Huijun GAO
   
+ <iframe height=498 width=510 src="https://www.youtube.com/watch?v=ZuxucB-W1rk">
   
 Skills
 ======
