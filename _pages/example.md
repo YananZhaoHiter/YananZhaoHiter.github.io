@@ -26,8 +26,12 @@ Work experience
   * Harbin Insititute of Technology
   * Duties included: Path planning for a robot arm with a laser scanner
   * Supervisor: Lecturer Zhan LI, Professor Huijun GAO
-  
- <iframe height=498 width=510 src="https://www.youtube.com/watch?v=ZuxucB-W1rk"></iframe>
+
+<iframe width="560" height="315"
+src="https://www.youtube.com/embed/MUQfKFzIOeU" 
+frameborder="0" 
+allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
+allowfullscreen></iframe>
   
 Skills
 ======
