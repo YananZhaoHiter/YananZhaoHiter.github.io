@@ -13,7 +13,7 @@ Education
 ======
 * B.S. in Automation, Harbin Insititute of Technology, 2016 - 2020(expected)
 
-<div align=center><img src='/images/500x300.png'>
+<div align=center><img src='/images/system.jpg'>
 
 Work experience
 ======
