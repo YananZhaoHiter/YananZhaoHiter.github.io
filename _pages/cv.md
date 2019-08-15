@@ -16,9 +16,9 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * University of California, Berkeley
-  * Duties included: Motion planning for autonomous vehicles
+* Motion planning for autonomous vehicles
+* Mechanical System Lab,University of California, Berkeley     Research Assistant
+  * Motion planning for autonomous vehicles
   * Supervisor: Dr.Zhan WEI, Professor Tomizuka
 
 * Fall 2015: Research Assistant
