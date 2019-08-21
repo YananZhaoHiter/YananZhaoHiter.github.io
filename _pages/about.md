@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is my personal website, you can find many details about me,such as my research experiences and cv. If you have some questions or want to contact me, you can send me an e-mail(zhaoting_li@outlook.com). My CV is here.
+This is my personal website, you can find many details about me,such as my research experiences and cv. If you have some questions or want to contact me, you can send me an e-mail(zhaoting_li@outlook.com). My CV is here. [CV_LI_Zhaoting.pdf](files/CV_LI_Zhaoting.pdf)
 
 About Me
 ======
