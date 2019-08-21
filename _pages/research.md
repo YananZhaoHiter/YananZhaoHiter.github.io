@@ -13,6 +13,6 @@ redirect_from:
 <center><img src='/images/DEB work flow.png'></center>
   
 In this project, we designed a motion planning method for urban autonomous vehicles. This method have the advantages of fast sampling speed, time-bounded collison-free path generation and sampling-based decision making method. 
-
+<center><img src='/images/EBplanner1.jpg'></center>
 
 ### Path planning for a laser scanning robot system
