@@ -12,9 +12,10 @@ redirect_from:
 Education
 ======
 * B.S. in Automation, Harbin Insititute of Technology, 2016 - 2020(expected)
+  * GPA: 95.65 / 100                                     Ranking:  2 /111 (2%)
+* Visiting student researcher, University of California, Berkeley , July 2019—Sept 2019
 
-
-Work experience
+Research experience
 ======
 * Motion planning for autonomous vehicles
 * Mechanical System Lab,University of California, Berkeley     Research Assistant
