@@ -16,10 +16,13 @@ Like many boys who are crazy about computer games such as XXX from their childho
 
 MY Experience
 ======
-* First year--Robot dancing
-* Second year--Smart car competition in China
-* Third year--Intelligent operation of robot arm based on ROS(robot operating system) 
-            Motion planning for autonomous vehicles
+* First year
+  * Robot dancing
+* Second year
+  * Smart car competition in China
+* Third year
+  * Intelligent operation of robot arm based on ROS(robot operating system) 
+  * Motion planning for autonomous vehicles
 
 For more info
 ------
