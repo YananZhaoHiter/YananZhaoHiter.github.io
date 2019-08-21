@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 [* A sampled-based trajectory planning method for urban autonomous vehicles](#anchor)
+
 [* Path planning for a laser scanning robot system](#anchor2)
 
 <span id = "anchor">### A sampled-based trajectory planning method for urban autonomous vehicles</span>
