@@ -7,8 +7,9 @@ redirect_from:
   - /resume
 ---
 
-[TOC]
-### A sampled-based trajectory planning method for urban autonomous vehicles
+<span id = "anchor">trajectory planning </span>
+
+### A sampled-based trajectory planning method for urban autonomous vehicles[trajectory planning ](#anchor)
 * Advisor: Masayoshi Tomizuka , IEEE Fellow and Professor of Mechanical Engineering, UC Berkeley
 
 <center><img src='/images/DEB work flow.png' width="75%" height="75%" /></center>
