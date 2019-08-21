@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is my personal website, you can find many details about me. If you have some questions or want to contact me, you can send me an e-mail(zhaoting_li@outlook.com).
+This is my personal website, you can find many details about me,such as my research experiences and cv. If you have some questions or want to contact me, you can send me an e-mail(zhaoting_li@outlook.com). My CV is here.
 
 About Me
 ======
@@ -16,11 +16,11 @@ Like many boys who are crazy about computer games such as XXX from their childho
 
 MY Experience
 ======
-First year--Robot dancing
-Second year--Smart car competition in China
-Third year--Intelligent operation of robot arm based on ROS(robot operating system) 
+* First year--Robot dancing
+* Second year--Smart car competition in China
+* Third year--Intelligent operation of robot arm based on ROS(robot operating system) 
             Motion planning for autonomous vehicles
 
 For more info
 ------
-If you have some questions or want to contact me, you can send me an e-mail(zhaoting_li@outlook.com).
+If you have some questions or want to contact me, you can send me an e-mail(zhaoting_li@outlook.com or lizhaoting@hit.edu.cn).
