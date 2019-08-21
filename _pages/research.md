@@ -11,6 +11,10 @@ redirect_from:
 
 * [Path planning for a laser scanning robot system](#anchor2)
 
+* [Intelligent operation of robot arm](#anchor3)
+
+* [Smart car competition](#anchor4)
+
 ### <span id = "anchor">A sampled-based trajectory planning method for urban autonomous vehicles</span>
 * Advisor: Masayoshi Tomizuka , IEEE Fellow and Professor of Mechanical Engineering, UC Berkeley
 
@@ -24,4 +28,9 @@ In this project, we designed a motion planning method for urban autonomous vehic
 ### <span id = "anchor2">Path planning for a laser scanning robot system</span>
 
 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BE4FbGaB_Kc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### <span id = "anchor3">Intelligent operation of robot arm</span>
+
+### <span id = "anchor4">Smart car competition</span>
