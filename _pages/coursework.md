@@ -20,4 +20,13 @@ author_profile: true
 | Calculus II                             |  98   | Description of the item in the list                          |
 | College Physics   |  100   | Description of the item in the list                          |
 | C Programming Language     | 95   | Description of the item in the list                          |
-| Matlab Language and Its Applications     | 95   | Description of the item in the list                          |
+| Matlab Language and Its Applications     | 100   | Description of the item in the list                          |
+
+* 2017 Fall
+
+| Entry                                        | Item  |                                                              |
+| --------                                     | ------| ------------------------------------------------------------ |
+| Calculus II                             |  98   | Description of the item in the list                          |
+| College Physics   |  100   | Description of the item in the list                          |
+| C Programming Language     | 95   | Description of the item in the list                          |
+| Matlab Language and Its Applications     | 100   | Description of the item in the list                          |
