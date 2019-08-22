@@ -5,12 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+* Yipeng Yang, Zhan Li, Zhaoting Li,[An Automatic Laser Scanning System for Objects with Unknown Model](files/An Automatic Laser Scanning System for Objects with Unknown Model.pdf), accepted by 2019 IEEE Smart World Congress
+* Zhan LI, Zhaoting LI, Yipeng Yang, A Trajectory Planning Method for Robot Scanning System Using Mask R-CNN for Scanning Objects with Unknown Model, under writing, plan to submit to Nuro Computing
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
