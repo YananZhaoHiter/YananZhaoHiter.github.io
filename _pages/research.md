@@ -34,3 +34,5 @@ In this project, we designed a motion planning method for urban autonomous vehic
 ### <span id = "anchor3">Intelligent operation of robot arm</span>
 
 ### <span id = "anchor4">Smart car competition</span>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_3HYpM_5XqU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
