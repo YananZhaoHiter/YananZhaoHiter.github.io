@@ -5,6 +5,7 @@ permalink: /coursework/
 author_profile: true
 ---
 * 2016 Fall
+
 | Entry                                        | Item  |                                                              |
 | --------                                     | ------| ------------------------------------------------------------ |
 | [Calculus II ](#)                            |  98   | Description of the item in the list                          |
