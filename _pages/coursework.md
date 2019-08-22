@@ -32,3 +32,12 @@ author_profile: true
 | Complex Function and Integral Transformation  | 99 | Description of the item in the list                          |
 | Probability Theory and Mathematical Statistics| 93.5 | Description of the item in the list                          |
 | Design and realization of robotic fish based on new smart materials| 99 | Descripti             |
+
+* 2018 Spring
+
+| Entry                                        | Item  |                                                              |
+| --------                                     | ------| ------------------------------------------------------------ |
+| Introduction to System Modeling and Simulation   |  98   | Description of the item in the list                     |
+| Electric Circuit   |  100   | Description of the item in the list                          |
+| Fundamentals of Analog Electronics   | 93   | Description of the item in the list                        |
+
