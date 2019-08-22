@@ -26,7 +26,9 @@ author_profile: true
 
 | Entry                                        | Item  |                                                              |
 | --------                                     | ------| ------------------------------------------------------------ |
-| Calculus II                             |  98   | Description of the item in the list                          |
+| Theoretical Mechanics                       |  91.6   | Description of the item in the list                          |
 | College Physics   |  100   | Description of the item in the list                          |
-| C Programming Language     | 95   | Description of the item in the list                          |
-| Matlab Language and Its Applications     | 100   | Description of the item in the list                          |
+| Electric Circuit   | 95   | Description of the item in the list                          |
+| Complex Function and Integral Transformation  | 99 | Description of the item in the list                          |
+| Probability Theory and Mathematical Statistics| 93.5 | Description of the item in the list                          |
+| Design and realization of robotic fish based on new smart materials| 99 | Descripti             |
