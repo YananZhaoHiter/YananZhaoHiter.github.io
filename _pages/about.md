@@ -22,7 +22,7 @@ MY Experience
   * Smart car competition in China
 * Third year
   * Intelligent operation of robot arm based on ROS(robot operating system) 
-  * [Motion planning for autonomous vehicles](#anchor)
+  * [Motion planning for autonomous vehicles](/pages/research/#anchor)
 
 For more info
 ------
