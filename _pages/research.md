@@ -26,6 +26,7 @@ In this project, we designed a motion planning method for urban autonomous vehic
 
 
 ### <span id = "anchor2">Path planning for a laser scanning robot system</span>
+Laser scanning has been widely used in the industrial manufacturing, especially in reverse engineering, quality control and surface defect detection. Achieving automatic scanning can succeed in reducing production costs and increasing production efficiency. In our project, we proposed an automatic intelligent scanning system based on ROS, including robot arm, RGBD camera and line laser scanner.
 
 
 
