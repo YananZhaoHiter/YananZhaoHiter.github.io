@@ -45,8 +45,8 @@ author_profile: true
 
 | Entry                                        | Item  |                                                              |
 | --------                                     | ------| ------------------------------------------------------------ |
-| Theory of Automatic Control (1)           |  91.6   | Description of the item in the list                          |
-| Automatic Control Practice (1)   |  100   | Description of the item in the list                          |
+| Theory of Automatic Control (1)           |  97   | Description of the item in the list                          |
+| Automatic Control Practice (1)   |  96.1   | Description of the item in the list                          |
 | Machinery Theory   | 90.7   | Description of the item in the list                          |
 | Fundamentals of Digital Electronics A  | 90 | Description of the item in the list                          |
 | Engineering Training(Electronic Process Practice)| 92 | Description of the item in the list                         |
