@@ -26,6 +26,7 @@ In this project, we designed a motion planning method for urban autonomous vehic
 
 
 ### <span id = "anchor2">Path planning for a laser scanning robot system</span>
+* Advisor: Huijun Gao , IEEE Fellow and Professor of Department of Automation, Harbin Institute of Technology
 Laser scanning has been widely used in the industrial manufacturing, especially in reverse engineering, quality control and surface defect detection. Achieving automatic scanning can succeed in reducing production costs and increasing production efficiency. In our project, we proposed an automatic intelligent scanning system based on ROS, including robot arm, RGBD camera and line laser scanner.
 
 
@@ -35,5 +36,6 @@ Laser scanning has been widely used in the industrial manufacturing, especially 
 ### <span id = "anchor3">Intelligent operation of robot arm</span>
 
 ### <span id = "anchor4">Smart car competition</span>
+The Chinese national NXP CUp smart car competition, which is  is one of the most famous competitions in China.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_3HYpM_5XqU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
