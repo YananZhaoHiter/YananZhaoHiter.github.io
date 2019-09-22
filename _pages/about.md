@@ -21,6 +21,7 @@ Recent updates
 * September 2019: I receive the evaluation form from Prof. Tomizuka!
 <center><img src='/images/evanluation.jpg' width="75%" height="75%" /></center>
 * July 2019: I begin my internship about motion planning for autonomous driving at UC Berkeley!
+<center><img src='/images/image_berkeley_car.jpg' width="60%" height="60%" /></center>
 * May 2019: The paper "An Automatic Laser Scanning System for Objects with Unknown Model" accepted by IEEE Smart World Congress!
 
 MY Experience
