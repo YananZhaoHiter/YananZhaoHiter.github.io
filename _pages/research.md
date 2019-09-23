@@ -27,7 +27,7 @@ In this project, we designed a motion planning method for urban autonomous vehic
 
 ### <span id = "anchor2">Path planning for a laser scanning robot system</span>
 * Advisor: Huijun Gao , IEEE Fellow and Professor of Department of Automation, Harbin Institute of Technology
-<center><img src='/images/results2.png' width="27%" height="27%" /><img src='/images/scan_result05.png' width="27%" height="27%" /></center>
+<center><img src='/images/results2.png' width="33%" height="33%" /><img src='/images/scan_result05.png' width="33%" height="33%" /></center>
 
 Laser scanning has been widely used in the industrial manufacturing, especially in reverse engineering, quality control and surface defect detection. Achieving automatic scanning can succeed in reducing production costs and increasing production efficiency. In our project, we proposed an automatic intelligent scanning system based on ROS, including robot arm, RGBD camera and line laser scanner.
 
@@ -47,8 +47,8 @@ Laser scanning has been widely used in the industrial manufacturing, especially 
 
 During the second year at university, I attended the 13th Chinese national NXP CUP smart car competition, which is one of the most famous competitions in China.
 
-
-<center><img src='/images/smartcar01.png' width="50%" height="50%" /><img src='/images/smartcar02.png' width="40%" height="40%" /></center>
+<center><img src='/images/smartcar03.jpg' width="50%" height="50%" /></center>
+<center><img src='/images/smartcar01.png' width="50%" height="50%" /><img src='/images/smartcar02.png' width="36%" height="36%" /></center>
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_3HYpM_5XqU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
