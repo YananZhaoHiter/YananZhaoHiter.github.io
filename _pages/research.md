@@ -47,7 +47,7 @@ Laser scanning has been widely used in the industrial manufacturing, especially 
 
 During the second year at university, I attended the 13th Chinese national NXP CUP smart car competition, which is one of the most famous competitions in China.
 
-<center><img src='/images/smartcar03.jpg' width="25%" height="25%" /><img src='/images/smartcar04.jpg' width="50%" height="50%" /></center>
+<center><img src='/images/smartcar03.jpg' width="25%" height="25%" /><img src='/images/smartcar04.jpg' width="40%" height="40%" /></center>
 <center><img src='/images/smartcar01.png' width="50%" height="50%" /><img src='/images/smartcar02.png' width="36%" height="36%" /></center>
 
 
