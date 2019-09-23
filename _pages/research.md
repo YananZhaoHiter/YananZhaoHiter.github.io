@@ -35,6 +35,12 @@ Laser scanning has been widely used in the industrial manufacturing, especially 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BE4FbGaB_Kc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### <span id = "anchor3">Intelligent operation of robot arm</span>
+* Advisor: Huijun Gao , IEEE Fellow and Professor of Department of Automation, Harbin Institute of Technology
+  * Employed the linear-quadratic-Gaussian regulator (LQG) to make the UR10 robot arm move to a designated position.
+  * Modified the guided policy search method (a policy search method in reinforcement learning) in executing simulated robotic manipulation tasks.
+  * Used position control with guided policy search method to train the UR10 robot arm move to a designatedposition without using inverse kinematics
+
+
 
 ### <span id = "anchor4">Smart car competition</span>
 During the second year at university, I attended the 13th Chinese national NXP CUP smart car competition, which is one of the most famous competitions in China. 
