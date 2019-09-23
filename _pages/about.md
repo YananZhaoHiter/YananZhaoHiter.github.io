@@ -18,8 +18,7 @@ Like many boys who are crazy about computer games from their childhood, I am hoo
 
 Recent updates
 ======
-* September 2019: I receive the evaluation form from Prof. Tomizuka!--Zhaoting made impressive progress during his visit in my lab. He has solid foundation on math and programming. He completed several challenging the tasks within a short period of time with great performances, either independently to tackle complicated decision and planning problems, or in collaboration with other students to complete a relatively big project with a very successful demo.
-
+* September 2019: I receive the evaluation form from Prof. Tomizuka!
 <center><img src='/images/evanluation.jpg' width="75%" height="75%" /></center>
 * July 2019: I begin my internship about motion planning for autonomous driving at UC Berkeley!
 <center><img src='/images/image_berkeley_car.jpg' width="60%" height="60%" /></center>
