@@ -14,7 +14,7 @@ My CV is here. [CV_LI_Zhaoting.pdf](files/CV_LI_Zhaoting.pdf)
 
 My transcript is [here](files/Transcript.pdf).
 
-My ranking certification is [here](files/Certificate for Ranking.pdf).
+My ranking certification is [here](files/Certificate for Ranking.pdf ).
 
 About Me
 ======
