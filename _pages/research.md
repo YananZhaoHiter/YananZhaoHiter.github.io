@@ -42,7 +42,7 @@ Laser scanning has been widely used in the industrial manufacturing, especially 
   * Employed the linear-quadratic-Gaussian regulator (LQG) to make the UR10 robot arm move to a designated position.
   * Modified the guided policy search method (a policy search method in reinforcement learning) in executing simulated robotic manipulation tasks.
   * Used position control with guided policy search method to train the UR10 robot arm move to a designatedposition without using inverse kinematics
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CcBsTdofb0o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 ### <span id = "anchor4">Smart car competition</span>
