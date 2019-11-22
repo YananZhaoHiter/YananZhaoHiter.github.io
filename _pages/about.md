@@ -22,6 +22,8 @@ Like many boys who are crazy about computer games from their childhood, I am hoo
 
 Recent updates
 ======
+
+* November 2019: The paper "Adaptive sampling-based motion planning with a non-conservatively defensive strategy for autonomous driving" is submitted to IFAC World Congress,2020!
 * September 2019: I receive the evaluation form from Prof. Tomizuka!
 <center><img src='/images/evanluation.jpg' width="75%" height="75%" /></center>
 * July 2019: I begin my internship about motion planning for autonomous driving at UC Berkeley!
