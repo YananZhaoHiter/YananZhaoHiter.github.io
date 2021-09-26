@@ -21,7 +21,7 @@ redirect_from:
 ### <span id = "anchor6">Learning Robot Exploration Strategy with Deep Reinforcement Learning</span>
 * Advisor: Max Q.-H. Meng , IEEE Fellow and Professor in Department of Electrical and Electronic Engineering, SUSTech
 
-<center><img src='/images/FrameworkICRA2021.png' width="75%" height="75%" /></center>
+<center><img src='/images/RAL2021.png' width="45%" height="45%" /></center>
   
 In this project, we designed a motion planning method for urban autonomous vehicles. This method have the advantages of fast sampling speed, time-bounded collison-free path generation and sampling-based decision making method. 
 
@@ -29,7 +29,7 @@ In this project, we designed a motion planning method for urban autonomous vehic
 ### <span id = "anchor5">Efficient Heuristic Generation for Robot Path planning </span>
 * Advisor: Max Q.-H. Meng , IEEE Fellow and Professor in Department of Electrical and Electronic Engineering, SUSTech
 
-<center><img src='/images/RAL2021.png' width="75%" height="75%" /></center>
+<center><img src='/images/FrameworkICRA2021.png' width="45%" height="45%" /></center>
   
 In this project, we designed a motion planning method for urban autonomous vehicles. This method have the advantages of fast sampling speed, time-bounded collison-free path generation and sampling-based decision making method. 
 
