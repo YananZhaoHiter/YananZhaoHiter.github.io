@@ -18,12 +18,20 @@ My ranking certification is [here](files/Certificate for Ranking.pdf ).
 
 About Me
 ======
-Like many boys who are crazy about computer games from their childhood, I am hooked by robotics and autonomous systems from my high school. I feel very lucky that I have many opportunities to explore my interested areas during my undergraduate study.
+Like many boys who are crazy about computer games from their childhood, I am hooked by robotics and autonomous systems from my high school. I feel very lucky that I have many opportunities to explore my interested areas.
 
 Recent updates
 ======
-
-* November 2019: The paper "Adaptive sampling-based motion planning with a non-conservatively defensive strategy for autonomous driving" is submitted to IFAC World Congress,2020!
+* September 2021: The paper "Learning Robot Exploration Strategy with 4D Point-Clouds-like Information as Observations" is accepted by RA-L!
+* September 2021: I am arriving ETH Zurich! Hope that I can survive from the high-workload courses. :)
+* June 2021: I am doing volunteer and presenting my paper at ICRA 2021!
+* May 2021: I am sad to be diagnosed with a pilonidal cyst in March. The surgery was then operated and the wound was left open for packing, which took me half and one month lying on the bed to recover completely. I really need a robot to take care of me in the hospital!
+* March 2021: The paper "Efficient Heuristic Generation for Robot Path Planning with Recurrent Generative Model" is accepted by ICRA 2021!
+* Auguest 2020: I start working as a full-time research assistant at SUSTech! I am lucky to be supervised by Prof. Max Q.-H. Meng, the chair of ICRA 2021!
+* June 2020: I appreciate ETH Zurich greatly for allowing me to accept the master offer although missing the deadline! I will defer this offer for one year and hope the virus will disapper next year.
+* June 2020: I am sad to hear from the newly issued Proclamation 10043, which prohibits students in HIT and other many universities to obtain a valid F visa. :(
+* March 2020: The paper "Adaptive sampling-based motion planning with a non-conservatively defensive strategy for autonomous driving" is accepted by IFAC World Congress,2020!
+* March 2020: I am lucky to receive the Ph.D offers from Duke, UW, Purdue and Ohio! Looking forward to the life in Duke!
 * September 2019: I receive the evaluation form from Prof. Tomizuka!
 <center><img src='/images/evanluation.jpg' width="75%" height="75%" /></center>
 * July 2019: I begin my internship about motion planning for autonomous driving at UC Berkeley!
