@@ -6,17 +6,17 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-* [Learning Robot Exploration Strategy with Deep Reinforcement Learning](#anchor6)
+* [Learning Robot Exploration Strategy with Deep Reinforcement Learning (12.2020 -- 07.2021)](#anchor6)
 
-* [Efficient Heuristic Generation for Robot Path planning](#anchor5)
+* [Efficient Heuristic Generation for Robot Path planning (07.2020 -- 10.2020)](#anchor5)
 
-* [A sampled-based trajectory planning method for urban autonomous vehicles](#anchor)
+* [A sampled-based trajectory planning method for urban autonomous vehicles (07.2019 -- 01.2020)](#anchor)
 
-* [Path planning for a laser scanning robot system](#anchor2)
+* [Path planning for a laser scanning robot system (02.2019 -- 06.2019)](#anchor2)
 
-* [Intelligent operation of robot arm](#anchor3)
+* [Intelligent operation of robot arm (09.2018 -- 01.2019)](#anchor3)
 
-* [Smart car competition](#anchor4)
+* [Smart car competition (10.2017 -- 08.2018)](#anchor4)
 
 ### <span id = "anchor6">Learning Robot Exploration Strategy with Deep Reinforcement Learning</span>
 * Advisor: Max Q.-H. Meng , IEEE Fellow and Professor in Department of Electrical and Electronic Engineering, SUSTech
