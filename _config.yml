@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Zhaoting LI"
   avatar           : "profile.JPG"
-  bio              : "Fourth year undergraduate student at Harbin Insititute of Technology"
-  Major            : "Automation"
-  location         : "Harbin,China"
+  bio              : "First year master student at ETH Zurich"
+  Major            : "Robotics"
+  location         : "Zurich,Switzerland"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.co.kr/citations?user=KAVUl24AAAAJ&hl=en"
   email            :  "zhaoting_li@outlook.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
