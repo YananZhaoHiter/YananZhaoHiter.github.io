@@ -6,6 +6,9 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+* [Learning Robot Exploration Strategy with Deep Reinforcement Learning ](#anchor6)
+
+* [Efficient Heuristic Generation for Robot Path planning](#anchor5)
 
 * [A sampled-based trajectory planning method for urban autonomous vehicles](#anchor)
 
@@ -14,6 +17,22 @@ redirect_from:
 * [Intelligent operation of robot arm](#anchor3)
 
 * [Smart car competition](#anchor4)
+
+### <span id = "anchor6">Learning Robot Exploration Strategy with Deep Reinforcement Learning</span>
+* Advisor: Max Q.-H. Meng , IEEE Fellow and Professor in Department of Electrical and Electronic Engineering, SUSTech
+
+<center><img src='/images/DEB work flow.png' width="75%" height="75%" /></center>
+  
+In this project, we designed a motion planning method for urban autonomous vehicles. This method have the advantages of fast sampling speed, time-bounded collison-free path generation and sampling-based decision making method. 
+
+
+### <span id = "anchor5">Efficient Heuristic Generation for Robot Path planning </span>
+* Advisor: Max Q.-H. Meng , IEEE Fellow and Professor in Department of Electrical and Electronic Engineering, SUSTech
+
+<center><img src='/images/DEB work flow.png' width="75%" height="75%" /></center>
+  
+In this project, we designed a motion planning method for urban autonomous vehicles. This method have the advantages of fast sampling speed, time-bounded collison-free path generation and sampling-based decision making method. 
+
 
 ### <span id = "anchor">A sampled-based trajectory planning method for urban autonomous vehicles</span>
 * Advisor: Masayoshi Tomizuka , IEEE Fellow and Professor of Mechanical Engineering, UC Berkeley
