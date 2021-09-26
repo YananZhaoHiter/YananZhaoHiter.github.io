@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "research"
+title: "Research"
 permalink: /research/
 author_profile: true
 redirect_from:
   - /resume
 ---
-* [Learning Robot Exploration Strategy with Deep Reinforcement Learning ](#anchor6)
+* [Learning Robot Exploration Strategy with Deep Reinforcement Learning](#anchor6)
 
 * [Efficient Heuristic Generation for Robot Path planning](#anchor5)
 
