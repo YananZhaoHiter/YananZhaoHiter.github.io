@@ -23,7 +23,7 @@ Like many boys who are crazy about computer games from their childhood, I am hoo
 Recent updates
 ======
 * September 2021: The paper "Learning Robot Exploration Strategy with 4D Point-Clouds-like Information as Observations" is accepted by RA-L!
-* September 2021: I arrive at ETH Zurich! Hope that I can survive from the high-workload courses. :)
+* September 2021: I start studying robotics at ETH Zurich!
 * June 2021: I am doing volunteer and presenting my paper at ICRA 2021!
 * May 2021: I am sad to be diagnosed with a pilonidal cyst in March. The surgery was then operated and the wound was left open for packing, which took me half and one month lying on the bed to recover completely. I really need a robot to take care of me in the hospital!
 * March 2021: The paper "Efficient Heuristic Generation for Robot Path Planning with Recurrent Generative Model" is accepted by ICRA 2021!
