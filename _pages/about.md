@@ -14,7 +14,7 @@ My CV is [here](files/Yanan_cv.pdf)
 
 My transcript is [here](files/Transcript_Yanan.pdf).
 
-My ranking certification is [here](files/Certificate for Ranking.pdf ).
+My ranking certification is [here](files/Ranking.pdf ).
 
 About Me
 ======
