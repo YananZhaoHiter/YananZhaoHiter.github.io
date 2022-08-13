@@ -18,7 +18,7 @@ My ranking certification is [here](files/Ranking.pdf ).
 
 About Me
 ======
-I received the B.E. degree in communication engineering and the M.E. degree in information and communication engineering from the Harbin Institute of Technology, China, in 2018 and 2020, respectively. After graduation, I have been a remote research assistant conducted by [Prof. Vishal Monga](http://signal.ee.psu.edu/faculty.html) (Penn State University, USA) on interpretable deep learning with strong interests and foundation in mathematics. My current research interests include signal and image processing, interpretable machine learning and applications. 
+I received the B.E. degree in communication engineering and the M.E. degree in information and communication engineering from the Harbin Institute of Technology, China, in 2018 and 2020, respectively. After graduation, I have been a remote research assistant conducted by [Prof. Vishal Monga](http://signal.ee.psu.edu/faculty.html) on interpretable deep learning with strong interests and foundation in mathematics. My current research interests include signal and image processing, interpretable machine learning and applications. 
 I feel very lucky that I have many opportunities to explore my interested areas.
 
 Recent updates
