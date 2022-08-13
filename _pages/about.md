@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal website! You can find many details about me,such as my research experiences and cv. If you have some questions or want to contact me, you can send me an e-mail(zhaoting_li@outlook.com).
+Welcome to my personal website! You can find many details about me, such as my research experiences and cv. If you have some questions or want to contact me, you can send me an e-mail(hiter_helen@163.com).
 
-My CV is here. [CV_LI_Zhaoting.pdf](files/CV_LI_Zhaoting.pdf)
+My CV is here. [Yanan_cv.pdf](files/Yanan_cv.pdf)
 
-My transcript is [here](files/Transcript.pdf).
+My transcript is [here](files/Transcript_Yanan.pdf).
 
 My ranking certification is [here](files/Certificate for Ranking.pdf ).
 
