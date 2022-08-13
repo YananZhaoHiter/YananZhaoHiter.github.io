@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yanan Zhao--Enjoying the Every Moment of Creating and Exploring"
+title: "Yanan Zhao-- No cross, no crown"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my personal website! You can find many details about me, such as my research experiences and cv. If you have some questions or want to contact me, you can send me an e-mail(hiter_helen@163.com).
 
-My CV is here. [Yanan_cv.pdf](files/Yanan_cv.pdf)
+My CV is [here](files/Yanan_cv.pdf)
 
 My transcript is [here](files/Transcript_Yanan.pdf).
 
@@ -38,10 +38,10 @@ Recent updates
 <center><img src='/images/image_berkeley_car.jpg' width="60%" height="60%" /></center>
 * May 2019: The paper "An Automatic Laser Scanning System for Objects with Unknown Model" accepted by IEEE Smart World Congress!
 
-MY Experience
+MY Work Experience
 ======
-* First year
-  * Robot dancing
+* From 2020 to Present
+  * Remote research assistant
 * Second year
   * Smart car competition in China
 * Third year
