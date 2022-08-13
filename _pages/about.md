@@ -16,10 +16,9 @@ My transcript is [here](files/Transcript_Yanan.pdf).
 
 My ranking certification is [here](files/Certificate for Ranking.pdf ).
 
-About Me
-======
-Like many boys who are crazy about computer games from their childhood, I am hooked by robotics and autonomous systems from my high school. I feel very lucky that I have many opportunities to explore my interested areas.
-
+#About Me
+#======
+#Like many boys who are crazy about computer games from their childhood, I am hooked by robotics and autonomous systems from my high school. I feel very lucky that I have many opportunities to explore my interested areas.
 Recent updates
 ======
 * September 2021: The paper "Learning Robot Exploration Strategy with 4D Point-Clouds-like Information as Observations" is accepted by RA-L!
