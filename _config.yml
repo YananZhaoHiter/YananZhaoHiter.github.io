@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhaoting LI"
+title                    : "Yanan Zhao"
 title_separator          : "-"
-name                     : &name "Zhaoting LI"
+name                     : &name "Yanan Zhao"
 description              : &description "Fourth year undergraduate student at Harbin Insititute of Technology"
 url                      : https://hitleo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhaoting LI"
-  avatar           : "profile.JPG"
+  name             : "Yanan Zhao"
+  avatar           : "CV_picture.PNG"
   bio              : "First year master student at ETH Zurich"
   Major            : "Robotics"
   location         : "Zurich,Switzerland"
