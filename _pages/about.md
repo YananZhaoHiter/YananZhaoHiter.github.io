@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zhaoting--Enjoying the Every Moment of Creating and Exploring"
+title: "Yanan Zhao--Enjoying the Every Moment of Creating and Exploring"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
