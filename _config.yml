@@ -82,14 +82,14 @@ analytics:
 author:
   name             : "Yanan Zhao"
   avatar           : "CV_picture.PNG"
-  bio              : "First year master student at ETH Zurich"
-  Major            : "Robotics"
-  location         : "Zurich,Switzerland"
+  bio              : "Incoming PhD student at McGill"
+  Major            : "machine learning and signal processing"
+  location         : "China"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.co.kr/citations?user=KAVUl24AAAAJ&hl=en"
-  email            :  "zhaoting_li@outlook.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : # example: "https://scholar.google.co.kr/citations?user=KAVUl24AAAAJ&hl=en"
+  email            :  "hiter_helen@163.com"
+  researchgate     : "https://www.researchgate.net/profile/Yanan-Zhao-37"
   uri              :
   bitbucket        :
   codepen          :
