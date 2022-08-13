@@ -16,12 +16,14 @@ My transcript is [here](files/Transcript_Yanan.pdf).
 
 My ranking certification is [here](files/Certificate for Ranking.pdf ).
 
-#About Me
-#======
-#Like many boys who are crazy about computer games from their childhood, I am hooked by robotics and autonomous systems from my high school. I feel very lucky that I have many opportunities to explore my interested areas.
+About Me
+======
+I received the B.E. degree in communication engineering and the M.E. degree in information and communication engineering from the Harbin Institute of Technology, China, in 2018 and 2020, respectively. After graduation, I have been a research assistant conducted by Prof. Vishal Monga (Penn State University, USA) on interpretable deep learning with strong interests and foundation in mathematics. My current research interests include signal and image processing, interpretable machine learning and applications. 
+I feel very lucky that I have many opportunities to explore my interested areas.
+
 Recent updates
 ======
-* September 2021: The paper "Learning Robot Exploration Strategy with 4D Point-Clouds-like Information as Observations" is accepted by RA-L!
+* March 2022: I receive the McGill PhD offer with Three Year MEDA Fellowship. 
 * September 2021: I start studying robotics at ETH Zurich!
 * June 2021: I am doing volunteer and presenting my paper at ICRA 2021!
 * May 2021: I am sad to be diagnosed with a pilonidal cyst in March. The surgery was then operated and the wound was left open for packing, which took me half and one month lying on the bed to recover completely. I really need a robot to take care of me in the hospital!
